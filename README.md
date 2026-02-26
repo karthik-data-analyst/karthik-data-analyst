@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Karthik
 
-<!--
-**karthik-data-analyst/karthik-data-analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst passionate about turning data into actionable insights.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technical Skills
+- SQL (MySQL)
+- Python (Pandas, NumPy, Scikit-learn)
+- Power BI
+- Advanced Excel
+- Data Cleaning & EDA
+- Machine Learning Basics
+
+---
+
+## 📊 Featured Project
+### Employee Attrition Analysis & Prediction
+- Analyzed 10,000+ employee records
+- Built Logistic Regression model (80% accuracy)
+- Used SQL for data extraction and aggregation
+- Developed interactive Power BI dashboard
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: linkedin.com/in/karthik-m-data-analyst
+- GitHub: github.com/karthik-data-analyst
+
+
